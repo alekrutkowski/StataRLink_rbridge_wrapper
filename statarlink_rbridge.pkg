@@ -1,0 +1,16 @@
+v 3
+d StataRLink-style wrappers for stata-rbridge
+d Provides r, startr, stopr, tor, and fromr commands backed by rbridge.
+p statarlink_rbridge StataRLink-style wrappers for stata-rbridge
+f _srlb_assert_r_name.ado
+f _srlb_init.ado
+f r.ado
+f startr.ado
+f stopr.ado
+f tor.ado
+f fromr.ado
+f r.sthlp
+f startr.sthlp
+f stopr.sthlp
+f tor.sthlp
+f fromr.sthlp
