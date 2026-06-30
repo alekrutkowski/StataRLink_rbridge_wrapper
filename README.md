@@ -22,10 +22,12 @@ rbridge status
 
 ## Install from an unpacked copy
 
+Download from https://github.com/alekrutkowski/StataRLink_rbridge_wrapper/archive/refs/heads/main.zip and unzip.
+
 From Stata, after unzipping this directory:
 
 ```stata
-net install statarlink_rbridge, from("/path/to/statarlink_rbridge_wrapper") replace
+net install statarlink_rbridge, from("/path/to/tataRLink_rbridge_wrapper") replace
 ```
 
 Or copy the `.ado` and `.sthlp` files to your PERSONAL ado directory.
